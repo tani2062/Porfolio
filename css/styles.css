@@ -19,6 +19,8 @@
       position: sticky;
       top: 0;
       z-index: 1000;
+      font-size: 25px;
+
     }
 
     .navigation-container {
