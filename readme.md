@@ -1,12 +1,14 @@
 
 
-🎨 Portfolio Personal 
+🎨 Portfolio Personal:
+
 Plantilla simple y moderna para crear tu portfolio web profesional usando solo HTML, CSS y JavaScript vanilla.
+
 
 📋 Descripción:
 
-Es una recopilación selecta y minuciosa de diferentes trabajos, proyectos y logros, dispuestos de manera organizada y atractiva, utilizando sólo HTML, CSS y JavaScript. Es una manera crativa de presentar nuestro perfil profesional de ante una empresa.
-
+**Es una recopilación selecta y minuciosa de diferentes trabajos, proyectos y logros, dispuestos de manera organizada y atractiva, utilizando sólo HTML, CSS y JavaScript. Es una manera crativa de presentar nuestro perfil profesional de ante una empresa.
+**
 
 ✨ Características:
 
@@ -17,7 +19,11 @@ Es una recopilación selecta y minuciosa de diferentes trabajos, proyectos y log
 ✅ Modal de imágenes - Amplía las capturas de tus proyectos
 ✅ Menú móvil funcional - Hamburguesa menu responsive
 
-🚀 Cómo usar
+
+
+🚀 Cómo usar:
+
+
 1. Descarga el proyecto
 git clone https://github.com/tu-usuario/tu-portfolio.git
 
@@ -68,6 +74,8 @@ Cada proyecto tiene esta estructura:
 
 
 
+
+
 📁 Estructura del proyecto:
 
 
@@ -91,7 +99,10 @@ portfolio/
 
 
 
+
+
 📚 Tecnologías utilizadas:
+
 
 HTML5 - Estructura semántica
 CSS3 - Estilos y animaciones
